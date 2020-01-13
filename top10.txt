@@ -1,0 +1,10 @@
+http://news.sohu.com/20130115/n348010483.shtml 0.025486
+http://news.sohu.com/s2015/dianji-1737/index.shtml 0.021297
+http://news.sohu.com/upload/article/2012/images20140613/down.gif 0.015768
+http://news.sohu.com/upload/article/2012/js/tongji_v2013110101.js 0.014931
+http://news.sohu.com/guoneixinwen.shtml 0.014682
+http://news.sohu.com/upload/itoolbar/cms/itoolbar.201410281438.css 0.013787
+http://news.sohu.com/upload/pagerevision20090916/news_logo3.gif 0.011178
+http://news.sohu.com/shehuixinwen.shtml 0.011076
+http://news.sohu.com/guojixinwen.shtml 0.010898
+http://news.sohu.com/upload/article/2012/js/print_roll.js 0.010583
